@@ -8,7 +8,6 @@ Notes:
 - Hyperparameters are determined and recorded in the Task 2 code.
 
 Instructions: 
-
 1. Download all files and ensure they are located together. We used google drive to store all files and recommend other users do the same.
 3. Run 'Task1_averages_code' on Google Colab to view the results of task 1.
 4. Run 'Task2_code' on Google Colab to view the results of Task 2 & 3. This may take some time. Colby's computer took just over 1 hour while Suleman's computer took several hours.
