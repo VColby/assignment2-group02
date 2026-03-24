@@ -5,6 +5,7 @@ Notes:
 
 - Code was run using Google Colab. Please ensure all data files and code files are located in the same folder, code may not run otherwise.
 - Task 1 code was created on VSCode and improted to Google Colab whereas Task 2 code was developed on Google Colab without any importing.
+- Hyperparameters are determined and recorded in the Task 2 code.
 
 Instructions: 
 
