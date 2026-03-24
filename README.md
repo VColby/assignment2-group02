@@ -9,5 +9,7 @@ Notes:
 
 Instructions: 
 1. Download all files and ensure they are located together. We used google drive to store all files and recommend other users do the same.
-3. Run 'Task1_averages_code' on Google Colab to view the results of task 1.
-4. Run 'Task2_code' on Google Colab to view the results of Task 2 & 3. This may take some time. Colby's computer took just over 1 hour while Suleman's computer took several hours.
+2. Open Google Colab and open the folder icon on the left hand side of the screen.
+3. Drop 'load.csv' into the opened folder tab.
+4. Run 'Task1_averages_code' on Google Colab to view the results of task 1. With 'load.csv' added, there should be no errors running this file.
+5. Run 'Task2_code' on Google Colab to view the results of Task 2 & 3. This may take some time. Colby's computer took just over 1 hour while Suleman's computer took several hours.
