@@ -1,0 +1,2 @@
+layers,units,optimizer,lr,dropout1,dropout2,batch_size,epochs,best_val_mae,best_val_rmse,best_val_mape,best_val_smape,epochs_ran
+2,64,rmsprop,0.001,0.05,0.05,64,100,163047.4,188320.8,0.105752,0.050457,42
